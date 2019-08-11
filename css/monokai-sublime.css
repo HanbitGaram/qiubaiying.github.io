@@ -85,6 +85,11 @@ Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-lic
   color: #75715e;
 }
 
-.hljs-comment{
-  color: #6bdc64;
+.hljs-doctag{
+  font-weight:bold;
+}
+
+.hljs-comment,
+.hljs-doctag{
+  color: #008654;
 }
