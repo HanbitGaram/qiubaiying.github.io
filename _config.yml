@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: github@netko.kr
 description: "RPG Maker MV의 플러그인 제작방법을 한글로 적어둔 사이트입니다."
 keyword: "RPG Maker MV, 알만툴, 쯔꾸르, RPG Maker MV Plugin, RPG Maker MV Plugin Make"
-url: "https://hanbitgaram.github.io/rmmv-plugin-page"          # your host, for absolute URL
+url: "https://hanbitgaram.github.io/rmmv-plugin-page/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/HanbitGaram/rmmv-plugin-page.git" # you code repository
 
