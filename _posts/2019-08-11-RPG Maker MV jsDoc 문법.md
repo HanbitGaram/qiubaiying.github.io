@@ -7,9 +7,7 @@ author:     한빛가람
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - RPG Maker MV
-    - MV Plugin
-    - MV jsDoc
+    - jsDoc
 ---
 
 # jsDoc이 하는 것
