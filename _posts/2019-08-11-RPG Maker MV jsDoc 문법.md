@@ -107,10 +107,14 @@ NOTE는 개발자에게 간단한 정보를 제공하기 위해 사용하는 RPG
  * 
  * Plugin Command
  * PATCH ON - 화이트스크린 패치를 시작합니다
- * PATCH OFF - 화이트 스크린 페치를 종료합니다
+ * PATCH OFF - 화이트 스크린 패치를 종료합니다
  * GAMEOVER ON - 게임오버를 활성화합니다
  * GAMEOVER OFF - 게임오버를 비활성화합니다
  */
 ```
+
+**스크린샷**
+
+![@help 사용 스크린샷](/post_img/jsdoc/plugin_screen_help.png )
 
 ***
